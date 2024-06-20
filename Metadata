@@ -1,0 +1,15 @@
+{
+  key:4
+  updateAuthority:"GcxD1kyAVs4b3xCfvCNg4esQB27M7c3VbQoGcNWRaMNa"
+  mint:"8dGUaPCybF4e2EbqtKcDsvW74shNTsabd5M6z6zG9BN2"
+  data:{
+    name:"PAMBII"
+    symbol:"PAMBII"
+    uri:"https://pambi.s3.ap-southeast-1.amazonaws.com/PAMBII.json"
+    sellerFeeBasisPoints:0
+  }
+  primarySaleHappened:0
+  isMutable:1
+  editionNonce:255
+  tokenStandard:2
+}
